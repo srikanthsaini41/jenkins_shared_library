@@ -1,0 +1,4 @@
+@NonCPS
+def call() {
+    cleanWs()
+}
